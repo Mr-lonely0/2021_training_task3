@@ -1,0 +1,6 @@
+/home/liukui/2021_training/project/shell$ /home/liukui/2021_training/project/shell/ls_demo$ ls_1.txt
+ls_2.txt
+/home/liukui/2021_training/project/shell/ls_demo$ /home/liukui/2021_training/project/shell$ cd ls_demo
+ls
+cd ..
+/home/liukui/2021_training/project/shell$ 

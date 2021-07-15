@@ -1,0 +1,1 @@
+/home/liukui/2021_training/project/shell$ /home/liukui/2021_training/project/shell/ls_demo$ /home/liukui/2021_training/project/shell$ 

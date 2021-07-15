@@ -1,0 +1,39 @@
+/home/liukui/2021_training/project/shell$ a.out
+args
+args.cpp
+check
+check.cpp
+fbomb.txt
+include
+ls_demo
+main
+main_sol
+Makefile
+output
+src
+test.c
+testcase1.in
+testcase2.in
+testcase3.in
+/home/liukui/2021_training/project/shell$ hello world!
+args
+arg1
+/home/liukui/2021_training/project/shell$ a.out
+args
+args.cpp
+check
+check.cpp
+fbomb.txt
+include
+ls_demo
+main
+main_sol
+Makefile
+output
+src
+test.c
+testcase1.in
+testcase2.in
+testcase3.in
+/home/liukui/2021_training/project/shell$ No Match
+/home/liukui/2021_training/project/shell$ 
